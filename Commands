@@ -1,0 +1,73 @@
+cat
+Spell
+!! -> repeat last command
+
+seq 123
+type till 123
+
+seq 123 145
+123 to 145 type
+
+seq 123  2 134
+123 to 134 in +2 order
+
+uname -n -> for node name
+uname -r  -> kernel name
+
+
+diff
+
+bc
+
+df
+du -> estimate file usage
+du -h -> human redable
+tty
+vi
+who -H
+fsck -> check and repair your file system
+aspell check kashyap.c
+whereis
+lpinfo
+cpio
+znew
+iw
+rev
+chown
+enable :-> enable the printer
+
+last
+sort
+unexpend
+yes
+sync
+
+ifconfig
+startx
+rt
+ps -u username --> show all process .. task manager of ubantu
+
+who -b	
+who -d
+
+uname -a
+free
+init
+diff
+screen
+cal
+watch
+bzip2
+lsusb -tv
+top
+dmesg
+
+free -m
+jobs
+
+algorithm : parser
+
+
+
+
+
